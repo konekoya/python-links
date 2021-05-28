@@ -1,4 +1,4 @@
-# python-links
+# Python links
 
 ## Learning material
 
