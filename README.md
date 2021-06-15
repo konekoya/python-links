@@ -11,5 +11,5 @@
 [Ask python](https://www.askpython.com/)
 
 ## Tools
-[Repilt](https://replit.com/~) - Online edtior for Python and more
-[The Python Package Index (PyPI)](https://pypi.org/)
+- [Repilt](https://replit.com/~) - Online edtior for Python and more
+- [The Python Package Index (PyPI)](https://pypi.org/)
