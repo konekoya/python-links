@@ -12,3 +12,4 @@
 
 ## Tools
 [Repilt](https://replit.com/~) - Online edtior for Python and more
+[The Python Package Index (PyPI)](https://pypi.org/)
