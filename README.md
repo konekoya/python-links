@@ -8,7 +8,10 @@
   - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 #### Tutorial sites
-[Ask python](https://www.askpython.com/)
+- [Ask python](https://www.askpython.com/)
+
+#### Books
+- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## Tools
 - [Repilt](https://replit.com/~) - Online edtior for Python and more
