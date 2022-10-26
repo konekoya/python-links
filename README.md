@@ -1,16 +1,14 @@
 # Python links
 
-## Learning material
-
-#### Docs
+## Docs
 - [Python Docs](https://docs.python.org/3/)
   - [Built-in Functions](https://docs.python.org/3/library/functions.html)
   - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
-#### Tutorial sites
+## Tutorial sites
 - [Ask python](https://www.askpython.com/)
 
-#### Books
+## Books
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## Tools
@@ -18,3 +16,6 @@
 - [The Python Package Index (PyPI)](https://pypi.org/)
 - [Python Tutor](https://pythontutor.com/) - Visualize code execution for Python, JavaScript and more. Helpful for debugging and learning
 - [Open Trivia DB](https://opentdb.com/) - Free to use, user-contributed trivia question database
+
+## Others
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
