@@ -4,12 +4,15 @@
 - [Python Docs](https://docs.python.org/3/)
   - [Built-in Functions](https://docs.python.org/3/library/functions.html)
   - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
 ## Tutorial sites
 - [Ask python](https://www.askpython.com/)
 
 ## Books
-- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+- [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - By Al Sweigart. Over 500,000 copies sold. Free to read under a CC license.
+
 
 ## Tools
 - [Repilt](https://replit.com/~) - Online edtior for Python and more
