@@ -7,7 +7,7 @@
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
 ## Tutorial sites
-- [Ask python](https://www.askpython.com/)
+- [Ask python](https://www.askpython.com/) - Python Tutorials and Examples
 
 ## Books
 - [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
