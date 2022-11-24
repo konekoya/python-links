@@ -13,6 +13,10 @@
 - [Real Python](https://realpython.com/) - Real Python Tutorials
   - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 
+## Tutorials:
+
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
+
 ## Books
 
 - [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
