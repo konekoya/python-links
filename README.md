@@ -12,10 +12,13 @@
 - [Ask python](https://www.askpython.com/) - Python Tutorials and Examples
 - [Real Python](https://realpython.com/) - Real Python Tutorials
   - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
+- [彭彭的課程](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B/playlists)
+- [Bro Code](https://www.youtube.com/@BroCodez/videos)
 
-## Tutorials:
+## Tutorials
 
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
+- [Python 入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk) - Python 程式設計入門課程，由彭彭老師錄製，歡迎自由分享
 
 ## Books
 
