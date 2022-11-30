@@ -5,6 +5,7 @@
 - [Python Docs](https://docs.python.org/3/)
   - [Built-in Functions](https://docs.python.org/3/library/functions.html)
   - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  - [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
 ## Tutorial sites
