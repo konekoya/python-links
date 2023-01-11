@@ -8,26 +8,32 @@
   - [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
+#### Visual Studio Code
+
+- [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python) - Official guide from VSCode team
+
 ## Sites and blogs
 
 - [Ask python](https://www.askpython.com/) - Python Tutorials and Examples
 - [Real Python](https://realpython.com/) - Real Python Tutorials
-- [彭彭的課程](https://www.youtube.com/c/%E5%BD%AD%E5%BD%AD%E7%9A%84%E8%AA%B2%E7%A8%8B/playlists)
-- [Bro Code](https://www.youtube.com/@BroCodez/videos)
 - [Al Sweigart](https://www.youtube.com/@Albert10110) - YouTube channel of the author of Automate the Boring Stuff with Python
 
 ## Tutorials
 
-#### Blog posts
+### Blog posts
 
 - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
 - [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
 
-#### Video courses
+### Video courses
 
-- [Python 入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk) - Python 程式設計入門課程，由彭彭老師錄製，歡迎自由分享
+#### GUI
+
 - [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+
+#### Automation and scripting
+
 - [Python Automation Tutorial – How to Automate Tasks for Beginners](https://www.youtube.com/watch?v=s8XjEuplx_U)
 - [Automate the Boring Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW) - Video version of the book
 
