@@ -54,14 +54,19 @@
 
 #### Data
 
-- [pandas](https://github.com/pandas-dev/pandas/)
+- [pandas](https://github.com/pandas-dev/pandas/) - Powerful tool for working and manipulating data
+
+#### Restful
+
+- [FastAPI](https://fastapi.tiangolo.com/) - high performance, easy to learn, fast to code, ready for production
+- [Pydantic](https://docs.pydantic.dev/) - Validate API payload data structure
 
 #### GUI
 
 - [tkinter](https://docs.python.org/3/library/tkinter.html) - Python interface to Tcl/Tk
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 
-## Packages
+#### Utilities
 
 - [pyperclip](https://pypi.org/project/pyperclip/) - A cross-platform clipboard module for Python
 
