@@ -70,6 +70,10 @@
 
 - [pyperclip](https://pypi.org/project/pyperclip/) - A cross-platform clipboard module for Python
 
+#### Database
+
+- [Psycopg](https://www.psycopg.org/) - PostgreSQL adapter(driver) for Python
+
 ## Others
 
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
