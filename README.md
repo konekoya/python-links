@@ -56,7 +56,7 @@
 
 - [pandas](https://github.com/pandas-dev/pandas/) - Powerful tool for working and manipulating data
 
-#### Restful
+#### Restful API
 
 - [FastAPI](https://fastapi.tiangolo.com/) - high performance, easy to learn, fast to code, ready for production
 - [Pydantic](https://docs.pydantic.dev/) - Validate API payload data structure
@@ -70,9 +70,14 @@
 
 - [pyperclip](https://pypi.org/project/pyperclip/) - A cross-platform clipboard module for Python
 
+#### Format
+
+- [autopep8](https://github.com/hhatto/autopep8) - Format your Python code
+
 #### Database
 
 - [Psycopg](https://www.psycopg.org/) - PostgreSQL adapter(driver) for Python
+- [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL ORM
 
 ## Others
 
