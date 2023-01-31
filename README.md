@@ -25,6 +25,7 @@
 - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
 - [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/) - In which I recommend bcrypt
 
 ### Video courses
 
@@ -58,7 +59,7 @@
 
 #### Restful API
 
-- [FastAPI](https://fastapi.tiangolo.com/) - high performance, easy to learn, fast to code, ready for production
+- [FastAPI](https://fastapi.tiangolo.com/) - High performance, easy to learn, fast to code, ready for production
 - [Pydantic](https://docs.pydantic.dev/) - Validate API payload data structure
 
 #### GUI
@@ -78,6 +79,11 @@
 
 - [Psycopg](https://www.psycopg.org/) - PostgreSQL adapter(driver) for Python
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL ORM
+
+#### Hash
+
+- [passlib](https://passlib.readthedocs.io/en/stable/) - Password hashing library for Python 2 & 3
+- [bcrypt](https://github.com/pyca/bcrypt/) - Modern(-ish) password hashing for your software and your servers
 
 ## Others
 
