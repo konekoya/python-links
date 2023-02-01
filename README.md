@@ -29,6 +29,8 @@
 
 ### Video courses
 
+- [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=17904s&ab_channel=freeCodeCamp.org) - A really good Python API course which not only includes the API design principles but also Postgres, SQL, JWT, OAuth and more
+
 #### GUI
 
 - [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
