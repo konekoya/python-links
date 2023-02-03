@@ -25,7 +25,11 @@
 - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
 - [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
+
+#### Password security
+
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/) - In which I recommend bcrypt
+- [How to securely hash passwords?](https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords/31846#31846)
 
 ### Video courses
 
