@@ -95,3 +95,4 @@
 
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [Professional Programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - Learning PostgreSQL fast
