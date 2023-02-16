@@ -25,6 +25,7 @@
 - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) - Use VSCode as the text editor for your python development
 - [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
+- [PostgreSQL Joins](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-joins/) - Learn about various kinds of PostgreSQL joins
 
 #### Password security
 
@@ -90,6 +91,10 @@
 
 - [passlib](https://passlib.readthedocs.io/en/stable/) - Password hashing library for Python 2 & 3
 - [bcrypt](https://github.com/pyca/bcrypt/) - Modern(-ish) password hashing for your software and your servers
+
+#### Tools
+
+- [pytube](https://github.com/pytube/pytube) - pytube is a genuine, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos.
 
 ## Others
 
