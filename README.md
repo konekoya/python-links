@@ -74,6 +74,14 @@
 - [tkinter](https://docs.python.org/3/library/tkinter.html) - Python interface to Tcl/Tk
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 
+#### Package manager
+
+- [Poetry](https://github.com/python-poetry/poetry) - packaging and dependency management made easy
+
+#### CLI
+
+- [yaspin](https://github.com/pavdmyt/yaspin) - full-featured terminal spinner to show the progress during long-hanging operations
+
 #### Utilities
 
 - [pyperclip](https://pypi.org/project/pyperclip/) - A cross-platform clipboard module for Python
