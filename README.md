@@ -17,6 +17,7 @@
 - [Ask python](https://www.askpython.com/) - Python Tutorials and Examples
 - [Real Python](https://realpython.com/) - Real Python Tutorials
 - [Al Sweigart](https://www.youtube.com/@Albert10110) - YouTube channel of the author of Automate the Boring Stuff with Python
+- [John Watson Rooney](https://www.youtube.com/@JohnWatsonRooney) - John teaches you everything about web scraping
 
 ## Tutorials
 
