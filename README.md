@@ -61,6 +61,11 @@
 
 ## Packages
 
+#### Network
+
+- [Requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library
+- [HTTPX](https://github.com/encode/httpx/) - A next-generation HTTP client for Python
+
 #### Data
 
 - [pandas](https://github.com/pandas-dev/pandas/) - Powerful tool for working and manipulating data
@@ -96,6 +101,10 @@
 - [Psycopg](https://www.psycopg.org/) - PostgreSQL adapter(driver) for Python
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL ORM
 
+#### Env
+
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Python's equivalent of JavaScript dotenv
+
 #### Hash
 
 - [passlib](https://passlib.readthedocs.io/en/stable/) - Password hashing library for Python 2 & 3
@@ -104,6 +113,10 @@
 #### Tools
 
 - [pytube](https://github.com/pytube/pytube) - pytube is a genuine, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos.
+
+## Cloud
+
+- [render](https://render.com/) - Offer free tier for hobbyists, including VPS and Postgres Database
 
 ## Others
 
